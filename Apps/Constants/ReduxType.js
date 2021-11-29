@@ -1,0 +1,22 @@
+// login
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";
+
+export const GET_PHONE_REQUEST = "GET_PHONE_REQUEST";
+export const GET_PHONE_SUCCESS = "GET_PHONE_SUCCESS";
+export const GET_PHONE_FAILURE = "GET_PHONE_FAILURE";
+
+export const CHANGE_HEART = "CHANGE_HEART";
+
+//conversation
+// export const ADD_CONVERSATION = "ADD_CONVERSATION";
+
+export const ADD_PHONE = "ADD_PHONE";
+export const EDIT_PHONE = "EDIT_PHONE";
+export const REMOVE_PHONE = "REMOVE_PHONE";
+
+// get information
+export const GET_INFORMATION_REQUEST = "GET_INFORMATION_REQUEST";
+export const GET_INFORMATION_SUCCESS = "GET_INFORMATION_SUCCESS";
+export const GET_INFORMATION_FAILURE = "GET_INFORMATION_FAILURE";
